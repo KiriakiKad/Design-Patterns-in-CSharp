@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+# Rider / JetBrains
+.idea/
+
+# Other
+*.dbmdl
+*.jfm

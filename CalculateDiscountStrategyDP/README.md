@@ -26,7 +26,7 @@ The project includes the following components:
 ## Development Environment
 
 - Language: **C#**  
-- Type: **.NET Console Application**  
+- Type: **.NET*  
 - IDE: **Microsoft Visual Studio** (or any C# compatible editor)  
 
 ## Example Usage
